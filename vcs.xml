@@ -10,8 +10,16 @@
           <option name="url" value="https://github.com/douhaoqq/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.jiliguala.com/backend/niuwa-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.jiliguala.com" />
+          <option name="userName" value="mark_li@jiliguala.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
