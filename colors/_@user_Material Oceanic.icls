@@ -4,7 +4,7 @@
     <property name="created">2020-07-08T18:47:02</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-07-21T10:57:04</property>
+    <property name="modified">2020-08-05T17:19:35</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
